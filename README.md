@@ -1,9 +1,10 @@
 ```🚀 Project: Real-Time Event-Driven System using RabbitMQ on Kubernetes```
+
 🧠 Project Overview
 
-You built a distributed system where services communicate asynchronously using
+```You built a distributed system where services communicate asynchronously using
 RabbitMQ deployed on
-Kubernetes.
+Kubernetes.```
 
 👉 Goal:
 
